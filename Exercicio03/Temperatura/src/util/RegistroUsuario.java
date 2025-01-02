@@ -12,5 +12,7 @@ public class RegistroUsuario {
     public String getNome() {
         return nome;
     }
+
+    
 }
 
